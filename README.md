@@ -1,7 +1,3 @@
-
-
----
-
 **Roblox Account Manager (RAM) - Requisitos de Instalación**  
 
 Para que el bot funcione correctamente, instala los siguientes componentes:  
